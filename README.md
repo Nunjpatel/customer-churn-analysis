@@ -11,7 +11,7 @@ An end-to-end customer churn analysis using the IBM Telco dataset. Covers explor
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](outputs/charts/dashboard_screenshot.png)
+![Dashboard](outputs/charts/PowerBI-customer-churn-analysis.png)
 
 ---
 
